@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/Jobs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/SuperCoins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/TeamSurvie.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/BanManager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/BossbarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/GriefPrevention.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/Essentials-2.x-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/PowerNBT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/uhcme/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ghofrane/Desktop/bukkit/zPermissions-1.3-SNAPSHOT-b7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

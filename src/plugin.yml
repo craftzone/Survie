@@ -1,0 +1,33 @@
+name: Survie
+main: info.mgone.survie.Survie
+version: 2.0
+author: mgone2010
+description: CrafZone GTA!
+depend: [Vault, HolographicDisplays, Jobs, Essentials]
+commands:
+  help:
+  aide:
+  plugin:
+  pl:
+  plugins:
+  icon:
+  sreload:
+  vote:
+  dvote:
+  pub:
+  pubadd:
+  s:
+  p:
+  menu:
+  job:
+  skill:
+  stats:
+  pvp:
+  pvpon:
+  resetkdr:
+  claim:
+  hdv:
+  banque:
+  b:
+  kickfly:
+  fupdate:

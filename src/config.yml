@@ -1,0 +1,43 @@
+message-format: '%prefix %player: &f%message'
+mysqldb: survie
+Server:
+  PlayerMotd:
+  - '&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/'
+  - ' '
+  - '           &c&lBienvenue sur CraftZone Survie'
+  - '       &d&lRegarder la video tuto pour débuter'
+  - '                   http://goo.gl/iioKq8'
+  - ' '
+  - '&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/&6&l&m\&e&l&m/&2&l&m\&a&l&m/&9&l&m\&b&l&m/&5&l&m\&d&l&m/&3&l&m\&b&l&m/&4&l&m\&c&l&m/'
+LocMarchand:
+  X: -65.5
+  Y: 75
+  Z: -44.5
+LocArmurier:
+  X: -57.5
+  Y: 75
+  Z: -28
+LocSorciere:
+  X: -52.5
+  Y: 75
+  Z: -28
+LocRecruteur:
+  X: -65.5
+  Y: 75
+  Z: -37.5
+LocInstructeur:
+  X: -65.5
+  Y: 75
+  Z: -51.5
+LocAgent:
+  X: -55
+  Y: 75
+  Z: -62.5
+LocBanque:
+  X: -57.5
+  Y: 75
+  Z: -59.5
+LocTroque:
+  X: -52.5
+  Y: 75
+  Z: -59.5
